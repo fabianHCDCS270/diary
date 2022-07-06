@@ -1,10 +1,6 @@
 # diaryapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+The original version of this project can be found at https://www.kindacode.com/article/flutter-sqlite/. This version contains some changes and only used for educational purpose in learning Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
